@@ -23,9 +23,6 @@ __ _ _ Tools Used _ _ _ _ _
  ⊛ I found that more people are using the bike in the evening, with the least amount of people using the bike at night. 
 
  ⊛ I could see an increasing trend starting at 5am till 5pm where people are using the bikes the most amount of time.
- 
- 
-![image](https://user-images.githubusercontent.com/90139229/179272266-dee62488-27f1-45ab-8794-44de82cdcd8d.png)
 
 ![image](https://user-images.githubusercontent.com/90139229/179272534-456149aa-e868-4e86-a8f5-294d8990afd5.png)
 
