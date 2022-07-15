@@ -9,12 +9,20 @@ __ _ _ Tools Used _ _ _ _ _
 
 ⊛ Tableau (Data Visualisation) 
 
+Team goal: Design marketing strategies aimed at converting casual riders into annual members. In order to be able to acomplish the goal, there are 3 questions that need to be answered:
+
+How do annual members and casual riders use Cyclistic bikes differently?
+Why would casual riders buy Cyclistic annual memberships?
+How can Cyclistic use digital media to influence casual riders to become members?
+I was assigned with the first question: How do annual members and casual riders use Cyclistic bikes differently?
+
+In order to answer all business questions, I will use the six steps of the data analysis process: Ask, Prepare, Process, Analyize, Share, Act.
 
  _  _  _ Insights and Findings _  _  _ 
  
  I have dived deeper into the business dataset to uncover valuable insights and turned it into actionable hypotheses. 
 
- ⊛ In this scenario, the casual & member riders tend to use the classic bike than any other bikes. There are a very few members that wants to take use docked bike.  
+ ⊛ In this scenario, the casual & member riders tend to use the classic bike than any other bikes. There are a very few members that wants to take use docked bike. 
 
  ⊛ The bikes are mostly used on weekends than during the weekdays 
 
@@ -35,16 +43,6 @@ __ _ _ Tools Used _ _ _ _ _
 ![image](https://user-images.githubusercontent.com/90139229/179273581-120a244c-46fd-41b3-92e5-6ce01f912d88.png)
 
 ![image](https://user-images.githubusercontent.com/90139229/179273861-1c6fbe38-84b7-4385-9601-138872b36aaa.png)
-
-
-Team goal: Design marketing strategies aimed at converting casual riders into annual members. In order to be able to acomplish the goal, there are 3 questions that need to be answered:
-
-How do annual members and casual riders use Cyclistic bikes differently?
-Why would casual riders buy Cyclistic annual memberships?
-How can Cyclistic use digital media to influence casual riders to become members?
-I was assigned with the first question: How do annual members and casual riders use Cyclistic bikes differently?
-
-In order to answer all business questions, I will use the six steps of the data analysis process: Ask, Prepare, Process, Analyize, Share, Act.
 
 Use cases: 
 
